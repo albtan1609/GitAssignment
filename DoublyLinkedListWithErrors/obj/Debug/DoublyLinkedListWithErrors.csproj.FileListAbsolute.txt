@@ -17,3 +17,10 @@ C:\Users\albert\Unit testing folder\DoublyLinkedListWithErrors\DoublyLinkedListW
 C:\Users\albert\Unit testing folder\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
 C:\Users\albert\Unit testing folder\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
 C:\Users\albert\Unit testing folder\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe.config
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.pdb
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.AssemblyReference.cache
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
+C:\Users\albert\UNIT TESTING ASSIGNMENT FOLDER\DoublyLinkedListWithErrors CODE FIXED\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb

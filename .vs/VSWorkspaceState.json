@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\DoublyLinkedListWithErrors",
-    "\\TestProject1"
+    "\\TestProjectFixed",
+    "\\TestResults",
+    "\\TestResults\\Deploy_itdxa 2017-07-05 10_10_13",
+    "\\TestResults\\Deploy_itdxa 2017-07-05 10_10_13\\In",
+    "\\UnitTestDLL",
+    "\\UnittestDLLList"
   ],
   "SelectedNode": "\\DoublyLinkedListWithErrors\\DLList.cs",
   "PreviewInSolutionExplorer": false
